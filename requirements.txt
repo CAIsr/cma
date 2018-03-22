@@ -2,3 +2,4 @@ nibabel
 numpy
 scipy
 matplotlib
+h5py
