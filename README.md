@@ -25,6 +25,7 @@ The script uses external software, so for it to be executable, the following sof
 - MINC toolkit version 1.9.11. Can be found here: https://bic-mni.github.io/#v2-version-19111911
 
 ## Team Members
+- Bhimal Ramsing
 - Henar Rituerto
 - Julie Broni Munk
 - Nina Jacobsen
