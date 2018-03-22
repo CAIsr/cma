@@ -146,7 +146,7 @@ def main():
     source_lookup_mnc = source_mnc.with_name(source_mnc.stem + '_lookup.mnc')
 
     do_cmd('minclookup', '-continuous', '-lookup_table',
-           tmpdir/'lookuptable.txt', source_mnc, source_lookup_mnc, '-2')
+           tmpdir/'lookuptable.txt', source_mnc, source_lookup_mnc, '-2 -clobber')
     print('=' * 79)
 
 
